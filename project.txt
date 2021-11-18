@@ -1,6 +1,10 @@
 Some initial data analysis to identify how inflammation changes over time after surgery.
 Jane is a Data Scientist and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
+Kalila will have a significant role in the project.
+Thiago Falcao - in charge to to do something i am not sure yet
+Brooke is playing football for the project.
+Alex's is playing guitar on this project.
 Jo is crocheting a small woolly mammoth on this project.
 Brooke is playing football for the project.
 Alex's is playing guitar on this project.
