@@ -3,5 +3,6 @@ Jane is a Data Scientist and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
 Alex's is playing guitar on this project.
 
+Aiden is going to consult his cat for advice on how to simulate the project numerically
 Eran is writing bad code which best be ignored.
 Thiago Falcao - in charge to to do something i am not sure yet
