@@ -2,3 +2,5 @@ Some initial data analysis to identify how inflammation changes over time after 
 Jane is a Data Scientist and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
 Duncan will be keeping his head down and playing tetris in this project.
+Alex's is playing guitar on this project.
+Thiago Falcao - in charge to to do something i am not sure yet
