@@ -1,14 +1,22 @@
 Some initial data analysis to identify how inflammation changes over time after surgery.
 Jane is a Data Scientist and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
+
+
+Yousef wishes Ole get sacked
+
+
+
 David will feed the dinosaurs.
 Brooke is playing football for the project.
 Alex's is playing guitar on this project.
 Jo is crocheting a small woolly mammoth on this project.
+
 Brooke is playing football for the project.
 Alex's is playing guitar on this project.
 CCE will do absolutely nothing, but claim senior author credit anyway.
 Aiden is going to consult his cat for advice on how to simulate the project numerically
 Eran is writing bad code which best be ignored.
 Thiago Falcao - in charge to to do something i am not sure yet
+
 
