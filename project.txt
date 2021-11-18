@@ -1,10 +1,10 @@
-Some initial data analysis to identify how inflammation changes over time after surgery.
+ Some initial data analysis to identify how inflammation changes over time after surgery.
 Jane is a Data Scientist and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
-
+Lena will join the project to do some data analysis
+Alex's is playing guitar on this project.
 Brooke is playing football for the project.
 Alex's is playing guitar on this project.
-
 Aiden is going to consult his cat for advice on how to simulate the project numerically
 Eran is writing bad code which best be ignored.
 Thiago Falcao - in charge to to do something i am not sure yet
