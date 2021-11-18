@@ -2,3 +2,4 @@ Some initial data analysis to identify how inflammation changes over time after 
 Jane is a Data Scientist and Samit is a statistician. We'll need to determine
 who is responsible for what in this project.
 
+CCE will do absolutely nothing, but claim senior author credit anyway.
